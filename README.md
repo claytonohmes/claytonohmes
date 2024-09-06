@@ -10,6 +10,8 @@
 
 # Udemy Certs
 ![UC-8fb6742a-af33-4fc5-abc6-7e9353bc985f](https://github.com/user-attachments/assets/a1d07deb-a80b-4e1e-9edb-e9602cbf8873)
+![image](https://github.com/user-attachments/assets/864e8c14-6084-4eff-8d78-4844cd0c9fd9)
+
 
 
 <!---
