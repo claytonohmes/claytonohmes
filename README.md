@@ -5,7 +5,7 @@
 - 📫 How to reach me LinkedIn or Email!
 
 # Resume
-![image](https://github.com/user-attachments/assets/d3316442-e5ac-4229-98f7-4df319fb3aa7)
+![image](https://github.com/user-attachments/assets/fcdc0381-75eb-4d8e-8e91-384511abe6dd)
 
 
 # Udemy Certs
