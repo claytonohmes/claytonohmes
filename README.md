@@ -1,8 +1,8 @@
 # About Me:
 - 👋 Hi, I’m @claytonohmes
-- 👀 I’m interested in a career change into the world of software engineering!
-- 🌱 I’m currently learning APIs, Python, Azure, C++.
-- 📫 How to reach me LinkedIn or Email!
+- 👀 I’m interested in learning more about the world of software engineering!
+- 🌱 I’m currently learning APIs, Azure, and C#.
+- 📫 How to reach me: LinkedIn or Email!
 
 # Resume
 ![image](https://github.com/user-attachments/assets/fcdc0381-75eb-4d8e-8e91-384511abe6dd)
